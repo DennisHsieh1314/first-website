@@ -1,0 +1,118 @@
+
+# 下載履歷練習檔案
+https://github.com/andy19910102/html-cv-practice
+
+# 講義
+網頁製作前置作業 - 草圖繪製
+https://hackmd.io/s/SyIZtJnYb
+
+使用GithubPages架設靜態頁面
+https://hackmd.io/s/HJT2qi7sx
+
+CSS進階篇
+https://hackmd.io/p/ry89EUrQx#/
+
+# 靜態網頁架站工具
+Git
+https://git-scm.com/
+
+Github
+https://github.com/
+
+
+
+Microsoft Windows [版本 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\user>git --version
+git version 2.14.1.windows.1
+
+C:\Users\user>dir
+ 磁碟區 C 中的磁碟是 System
+ 磁碟區序號:  BC58-AF8A
+
+ C:\Users\user 的目錄
+
+2017/03/02  下午 05:33    <DIR>          .
+2017/03/02  下午 05:33    <DIR>          ..
+2016/03/14  下午 06:21    <DIR>          .android
+2014/12/22  下午 02:41    <DIR>          .AndroidStudio
+2016/03/14  下午 06:09    <DIR>          .AndroidStudio1.5
+2013/12/03  上午 10:59    <DIR>          .AndroidStudioPreview
+2015/11/14  下午 05:32    <DIR>          .AndroidStudioPreview1.5
+2017/03/02  下午 05:28    <DIR>          .dnx
+2014/09/03  下午 05:25    <DIR>          .gem
+2016/03/14  下午 06:19    <DIR>          .gradle
+2015/11/14  下午 05:44    <DIR>          .VirtualBox
+2017/03/02  下午 05:33    <DIR>          .vscode
+2016/03/14  下午 06:22    <DIR>          AndroidStudioProjects
+2015/11/28  下午 05:19    <DIR>          Autodesk
+2013/12/03  下午 01:28    <DIR>          Contacts
+2016/03/14  下午 06:23    <DIR>          Desktop
+2017/03/01  下午 04:03    <DIR>          Documents
+2017/09/04  下午 09:00    <DIR>          Downloads
+2013/12/03  下午 01:28    <DIR>          Favorites
+2015/11/28  下午 04:58    <DIR>          Links
+2013/12/03  下午 01:28    <DIR>          Music
+2013/12/03  下午 01:28    <DIR>          Pictures
+2013/12/03  下午 01:28    <DIR>          Saved Games
+2013/12/03  下午 01:28    <DIR>          Searches
+2013/12/03  下午 01:28    <DIR>          Videos
+               0 個檔案               0 位元組
+              25 個目錄  30,821,957,632 位元組可用
+
+C:\Users\user>cd Desktop
+
+C:\Users\user\Desktop>d:
+
+D:\>cd frontend
+
+D:\frontend>cd practice5
+
+D:\frontend\practice5>dir
+ 磁碟區 D 中的磁碟沒有標籤。
+ 磁碟區序號:  806B-A46D
+
+ D:\frontend\practice5 的目錄
+
+2017/09/04  下午 07:14    <DIR>          .
+2017/09/04  下午 07:14    <DIR>          ..
+2017/09/04  下午 07:01    <DIR>          css
+2017/09/04  下午 07:01    <DIR>          img
+2017/09/04  下午 09:11             4,300 index.html
+               1 個檔案           4,300 位元組
+               4 個目錄  183,097,098,240 位元組可用
+
+D:\frontend\practice5>git config --global color.ui true
+
+D:\frontend\practice5>git config --global user.name DennisHsieh1314
+
+D:\frontend\practice5>git config --global user.email motking5@gmail.com
+
+D:\frontend\practice5>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
